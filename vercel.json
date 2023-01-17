@@ -23,7 +23,7 @@
         },
         {
             "src":"/(.*)",
-            "dest":"poll/wsgi.py"
+            "dest":"eshop/wsgi.py"
         }
     ]
     
